@@ -5,7 +5,7 @@ WILL PROBABLY ONLY WORK ON WINDOWS
 
 Steps to set up:
 
-1. Download VAMemory.dll from online https://vivid-abstractions.net/logical/programming/vamemory-c-memory-class-net-3-5/ and put all files in the same directory
+1. Download VAMemory.dll from https://vivid-abstractions.net/logical/programming/vamemory-c-memory-class-net-3-5/ and put all files in the same directory
 2. In CMD navigate to the directory and type `dotnet run`
 3. Find the base value for player health in Cheat Engine by doing the following:
 
